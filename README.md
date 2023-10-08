@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @therishirajroy
-- 👀 I’m interested in coding casual
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in fitness
+- 🌱 I’m currently learning .NET
 - 📫 How to reach me Email:rishirajroy173@gmail.com
 
 
