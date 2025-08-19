@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @therishirajroy
 - 👀 I’m interested in fitness
-- 🌱 I’m currently learning .NET
-- 📫 How to reach me Email:rishirajroy173@gmail.com
+- 🌱 I’m currently pursuing my Masters in Big Data Analytics
+- 📫 How to reach me? Email: rishirajroyy@gmail.com
 
 
 <!---
